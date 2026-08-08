@@ -1,4 +1,4 @@
-# tkinter-campus-commute-tracker-analysis-python-mysql 🚲🚌
+# Tkinter-Campus-Commute-Tracker-Analysis-Python-MySql 
 
 A desktop application that turns a daily-commute survey into an interactive tool — load the data, explore it, add new responses, store everything in MySQL, and generate visual breakdowns of how people actually get around.
 
@@ -111,6 +111,6 @@ The project demonstrates a full, working pipeline from raw survey data to a quer
 ## Author & Contact
 
 **Kaushik Pathak**
-📧 Reach out via [LinkedIn](https://www.linkedin.com) | [GitHub](https://github.com/kaushik-path)
+📧 Feel Free to Reach out [LinkedIn](https://www.linkedin.com/in/kaushikpath/) | [GitHub](https://github.com/kaushik-path)
 
 *Feel free to open an issue or reach out for questions, feedback, or collaboration.*
